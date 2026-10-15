@@ -1,0 +1,1 @@
+EXIT_WORDS = {"exit", "quit", "q", "no", "n"}
